@@ -2,7 +2,7 @@
 Its a landing page about myself.
 
 ## Setup instruction
-- git clone 
+- git clone https://github.com/Sachombe/about-me.git
 - Open the cloned folder in vs code
 - Go live
 
