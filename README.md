@@ -1,4 +1,4 @@
-# About this project
+## About this project
 Its a landing page about myself.
 
 ## Setup instruction
